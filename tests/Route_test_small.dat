@@ -1,0 +1,10 @@
+2B,410,Airport0,0,Airport1,1,,0,CR2
+2B,410,Airport0,0,Airport2,2,,0,CR2
+2B,410,Airport1,1,Airport0,0,,0,CR2
+2B,410,Airport1,1,Airport2,2,,0,CR2
+2B,410,Airport1,1,Airport3,3,,0,CR2
+2B,410,Airport2,2,Airport1,1,,0,CR2
+2B,410,Airport2,2,Airport1,1,,0,CR2
+2B,410,Airport2,2,Airport3,3,,0,CR2
+2B,410,Airport3,3,Airport1,1,,0,CR2
+2B,410,Airport3,3,Airport2,2,,0,CR2
